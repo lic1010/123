@@ -13,11 +13,18 @@ void fun(int size_fun,int b[]) {
     int a[4];
     for(int i=0;i<pow(2,size_fun);i++) {
         two(i,a);
+        cout<<"[";
+        bool c=true;
         for(int j=0;j<size_fun;j++) {
             if(a[j]==1) {
+                if(!c) {
+                    cout<<",";
+                }
                 cout<<b[j];
+                c=false;
             }
         }
+        cout<<"]";
         cout<<'\n';
     }
 }
