@@ -1,1 +1,0 @@
-"C:\Users\李彩甄\AppData\Local\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/李彩甄/AppData/Local/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\李彩甄\OneDrive\桌面\git\Homework 1" -B "C:\Users\李彩甄\OneDrive\桌面\git\Homework 1\cmake-build-debug"
